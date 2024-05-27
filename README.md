@@ -281,6 +281,9 @@ Instagram
 拼多多
     
     pinduoduo://
+拼多多签到
+    
+    pinduoduo://com.xunmeng.pinduoduo/https://mobile.yangkeduo.com/pythagoras_ctc_ca.html
 京东 
 
     openapp.jdmoble://
