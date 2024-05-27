@@ -333,82 +333,6 @@ Line
 
     vipshop://
 
-## 杂七杂八
-
-Cerulean工具箱 
-
-    Cerulean://
-钱迹
-
-    qianji://
-Picsew 
-
-    picsew://
-Picsew打开最近长截图 
-
-    picsew://recent
-我的标记 
-
-    clover-imark://
-抓图猫 
-
-    imagecat://
-Piiic 2 
-
-    wb1934889315://
-Alook浏览器 
-
-    Alook://
-115云盘 
-
-    wb1307639798://
-123云盘 
-
-    wx5d164fd6498c6e80://
-米家
-
-    mihome://
-uc浏览器 
-
-    ucbrowser://
-搜狗输入法 
-
-    com.sogou.sogouinput://
-圈子账本 
-
-    qzzb://
-我的密码
-
-    findmykey://
-我查查 
-
-    wcc://
-
-名片全能王 
-
-    camcard://
-Evernote 
-
-    evernote://
-迅雷 
-
-    thunder://
-天气通 
-
-    sinaweather://
-墨迹天气 
-
-    rm434209233MojiWeather://
-同花顺 
-
-    amihexin://
-keep
-
-    keep://
- 掌阅iReader
-
-    iReader://
-
 ## 影音视频
 抖音 
 
@@ -516,3 +440,79 @@ YY直播
 崩坏3
 
     bh3rd://
+## 杂七杂八
+
+Cerulean工具箱 
+
+    Cerulean://
+钱迹
+
+    qianji://
+Picsew 
+
+    picsew://
+Picsew打开最近长截图 
+
+    picsew://recent
+我的标记 
+
+    clover-imark://
+抓图猫 
+
+    imagecat://
+Piiic 2 
+
+    wb1934889315://
+Alook浏览器 
+
+    Alook://
+115云盘 
+
+    wb1307639798://
+123云盘 
+
+    wx5d164fd6498c6e80://
+米家
+
+    mihome://
+uc浏览器 
+
+    ucbrowser://
+搜狗输入法 
+
+    com.sogou.sogouinput://
+圈子账本 
+
+    qzzb://
+我的密码
+
+    findmykey://
+我查查 
+
+    wcc://
+
+名片全能王 
+
+    camcard://
+Evernote 
+
+    evernote://
+迅雷 
+
+    thunder://
+天气通 
+
+    sinaweather://
+墨迹天气 
+
+    rm434209233MojiWeather://
+同花顺 
+
+    amihexin://
+keep
+
+    keep://
+ 掌阅iReader
+
+    iReader://
+
