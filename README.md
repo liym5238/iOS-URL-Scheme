@@ -152,6 +152,9 @@ QQ斗地主
 天猫 
 
     tmall://
+钉钉
+
+    dingtalk://
 菜鸟裹裹
 
     cainiao://
@@ -515,4 +518,27 @@ keep
  掌阅iReader
 
     iReader://
+# pin排序
+自己用的pin排序列表
 
+    微信扫一扫 weixin://scanqrcode
+    支付宝付款 alipayqr://platformapi/startapp?saId=20000056
+    以图搜图 shortcuts://run-shortcut?name=%E7%99%BE%E5%BA%A6%E6%90%9C%E5%9B%BE%E5%8E%9F%E5%A7%8B%E7%89%88%E6%9C%AC
+    淘宝 taobao://
+    京东 openapp.jdmoble://
+    支付宝扫一扫 alipayqr://platformapi/startapp?saId=10000007
+    邮箱 Message://
+    YouTube youtube://
+    Twitter Twitter://
+    抖音 wb1462309810://
+    快捷指令 shortcuts://
+    Telegram tg://
+    微博 sinaweibo://
+    文件 shareddocuments://
+    钉钉 dingtalk://
+    钱迹 qianji://
+    删除照片 shortcuts://run-shortcut?name=%E5%88%A0%E9%99%A4%E7%85%A7%E7%89%87
+    备忘录 mobilenotes://
+    添加短语 shortcuts://run-shortcut?name=%E6%B7%BB%E5%8A%A0%E7%9F%AD%E8%AF%AD
+    Cerulean工具箱 Cerulean://
+    
