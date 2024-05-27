@@ -19,6 +19,12 @@ QQ群组
 QQ联系人
     
     mqqapi://card/show_pslcard?src_type=internal&version=1&uin=QQ号码
+tim
+    
+    tim://
+tim 扫一扫
+    
+    tim://qrcode/scan_qrcode?version=1&src_type=app
 QQ音乐 
 
 
@@ -60,10 +66,13 @@ QQ斗地主
 微信读书 
 
     weread://
-腾讯企业邮箱 
+企业微信
+    
+    wxwork://
+企业邮箱 
 
     qqbizmailDistribute2://
-腾讯手机管家 
+手机管家 
 
     mqqsecure://
 
@@ -143,6 +152,9 @@ QQ斗地主
 天猫 
 
     tmall://
+菜鸟裹裹
+
+    cainiao://
 旺旺卖家版
 
     wangwangseller://
@@ -240,7 +252,25 @@ YouTube
 Instagram 
 
     instagram://
-  
+Line
+
+    line://
+## 社交平台
+微博
+
+    sinaweibo://
+微博轻享版
+
+    weibointernational://
+天涯社区
+    
+    tianya://
+探探
+    
+    tantanapp://
+陌陌
+
+    momochat://
 ## 导航地图
 高德地图 
 
@@ -372,59 +402,63 @@ Evernote
 同花顺 
 
     amihexin://
-  
+keep
+
+    keep://
+ 掌阅iReader
+
+    iReader://
 
 ## 影音视频
-酷我音乐
-
-    com.kuwo.kwmusic.kwmusicForKwsing://
-搜狐视频 
-
-    sohuvideo-iphone://
-Bilibili
-    
-    bilibili://
-虾米音乐 
-
-    xiami://
 抖音 
 
     wb1462309810://
 快手 
 
     gifshow://
-火山小视频 
+火山小视频
 
     wb1462309810://
+酷我音乐
+
+    com.kuwo.kwmusic.kwmusicForKwsing://
+酷狗音乐
+
+    kugouURL://
+虾米音乐 
+
+    xiami://
+搜狐视频 
+
+    sohuvideo-iphone://
 爱奇艺视频 
 
     qiyi-iphone://
-PPTV 
+PPTV视频
 
     pptv://
+优酷视频
+
+    youku://
+哔呷哔哩
+    
+    bilibili://
+哔呷哔哩搜索
+
+    bilibili://search?keyword=关键词
+
 今日头条 
 
     snssdk141://
-哔哩哔哩动画
-
-    bilibili://
-优酷 
-
-    youku://
-搜狐视频 
-
-    sohuvideo://
-掌阅iReader
-
-    iReader://
-
 豆瓣FM 
 
     doubanradio://
 全民K歌 
 
     qmkege://
+YY直播
 
+    yymobile://
 ## 银行系列
 招商银行 
 
@@ -479,4 +513,6 @@ PPTV
 天天酷跑 
 
     tencent100692648://
-</details>
+崩坏3
+
+    bh3rd://
