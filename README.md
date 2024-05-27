@@ -200,6 +200,9 @@ Instagram
 
 ## 消费购物
 
+拼多多
+    
+    pinduoduo://
 淘宝 
 
     taobao://
