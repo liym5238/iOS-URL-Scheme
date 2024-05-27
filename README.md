@@ -13,6 +13,12 @@
 QQ
 
     mqq://
+QQ群组
+    
+    mqqapi://card/show_pslcard?src_type=internal&version=1&card_type=group&uin=QQ群号
+QQ联系人
+    
+    mqqapi://card/show_pslcard?src_type=internal&version=1&uin=QQ号码
 QQ音乐 
 
 
@@ -26,12 +32,22 @@ QQ音乐本地播放
 QQ音乐听歌识曲 </span>
 
     qqmusic://http://qq.com/ui/recognize
-腾讯安全中心
+QQ邮箱 
+
+    qqquicklogin://
+QQ浏览器 
+
+    mqqbrowser://
+
+QQ同步助手 
+
+    qqpim://
+QQ安全中心
 
     qmtoken://
-腾讯手机管家 
-
-    mqqsecure://
+QQ斗地主
+    
+    tencent382://
 腾讯视频 
 
     tenvideo://
@@ -44,23 +60,6 @@ QQ音乐听歌识曲 </span>
 微信读书 
 
     weread://
-腾讯企业邮箱 
-
-    qqbizmailDistribute2://
-Chrome 
-
-    googlechrome://
-QQ邮箱 
-
-    qqquicklogin://
-QQ浏览器 
-
-    mqqbrowser://
-
-QQ同步助手 
-
-    qqpim://
-
 腾讯企业邮箱 
 
     qqbizmailDistribute2://
@@ -132,6 +131,70 @@ QQ同步助手
 百度浏览器 
 
     bdbrowser://
+
+## 阿里系列
+
+淘宝 
+
+    taobao://
+淘宝(搜索)
+
+    taobao://s.taobao.com/?q=裙子
+天猫 
+
+    tmall://
+旺旺卖家版
+
+    wangwangseller://
+
+支付宝 
+
+    alipay://
+支付宝(付款)
+
+    alipayqr://platformapi/startapp?saId=20000056
+支付宝(扫一扫)
+
+    alipayqr://platformapi/startapp?saId=10000007
+支付宝乘车码
+    
+    alipayqr://platformapi/startapp?saId=200011235
+支付宝记账
+
+    alipay://platformapi/startapp？appId=20000168
+支付宝转账 
+
+    alipayqr://platformapi/startapp?saId=20000116
+支付宝余额宝 
+
+    alipayqr://platformapi/startapp？saId=20000032
+
+支付宝滴滴
+
+    alipay://platformapi/startapp?appId=20000778
+支付宝蚂蚁森林 
+
+    alipay://platformapi/startapp?appId=60000002
+信用卡还款
+    
+    alipays://platformapi/startapp?appId=09999999
+支付宝手机充值 </span>
+
+    alipayqr://platformapi/startapp?saId=10000003
+支付宝口令红包 
+
+    alipayqr://platformapi/startapp?saId=88886666
+支付宝提现 
+
+    alipayqr://platformapi/startapp？saId=20000033
+
+支付宝蚂蚁庄园 
+
+    alipays://platformapi/startap
+支付宝创建群聊
+    
+    alipay://platformapi/startapp?appId=20000254&actionType=createGroup
+
 ## 系统URL
 文件
 
@@ -148,6 +211,18 @@ QQ同步助手
 备忘录 
 
     mobilenotes://
+相册
+    
+    photos-redirect://
+日历
+    
+    calshow://
+短信
+    
+    sms:/10086
+电话
+    
+    tel://10086
 
 ## 国外社交
 推特
@@ -176,6 +251,9 @@ Instagram
 腾讯地图 
 
     qqmap://
+上海地铁大都会
+    
+    metro://qrcode 
 北京交警 
 
     zcblbjjj://
@@ -203,57 +281,15 @@ Instagram
 拼多多
     
     pinduoduo://
-淘宝 
-
-    taobao://
-淘宝(搜索)
-
-    taobao://s.taobao.com/?q=裙子
-支付宝 
-
-    alipay://
-支付宝(付款)
-
-    alipayqr://platformapi/startapp?saId=20000056
-支付宝(扫一扫)
-
-    alipayqr://platformapi/startapp?saId=10000007
-支付宝记账
-
-    alipay://platformapi/startapp？appId=20000168
-支付宝滴滴
-
-    alipay://platformapi/startapp?appId=20000778
-支付宝蚂蚁森林 
-
-    alipay://platformapi/startapp?appId=60000002
-支付宝转账 
-
-    alipayqr://platformapi/startapp?saId=20000116
-支付宝手机充值 </span>
-
-    alipayqr://platformapi/startapp?saId=10000003
-支付宝口令红包 
-
-    alipayqr://platformapi/startapp?saId=88886666
-支付宝提现 
-
-    alipayqr://platformapi/startapp？saId=20000033
-支付宝余额宝 
-
-    alipayqr://platformapi/startapp？saId=20000032
-支付宝蚂蚁庄园 
-
-    alipays://platformapi/startap
-支付宝创建群聊
-    
-    alipay://platformapi/startapp?appId=20000254&actionType=createGroup
 京东 
 
     openapp.jdmoble://
 美团 
 
     imeituan://
+美团外卖
+    
+    meituanwaimai://
 大众点评 
 
     dianping://
@@ -263,12 +299,6 @@ Instagram
 唯品会 
 
     vipshop://
-天猫 
-
-    tmall://
-旺旺卖家版
-
-    wangwangseller://
 
 ## 杂七杂八
 
@@ -348,6 +378,9 @@ Evernote
 搜狐视频 
 
     sohuvideo-iphone://
+Bilibili
+    
+    bilibili://
 虾米音乐 
 
     xiami://
