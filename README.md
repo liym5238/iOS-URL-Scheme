@@ -245,6 +245,9 @@ Instagram
 支付宝蚂蚁庄园 
 
     alipays://platformapi/startap
+支付宝创建群聊
+    
+    alipay://platformapi/startapp?appId=20000254&actionType=createGroup
 京东 
 
     openapp.jdmoble://
