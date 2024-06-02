@@ -265,6 +265,9 @@ Line
 微博轻享版
 
     weibointernational://
+酷安
+
+    tencent100336226://
 天涯社区
     
     tianya://
@@ -346,6 +349,9 @@ Line
 火山小视频
 
     wb1462309810://
+网易云音乐
+
+    orpheuswidget://
 酷我音乐
 
     com.kuwo.kwmusic.kwmusicForKwsing://
@@ -518,6 +524,9 @@ keep
  掌阅iReader
 
     iReader://
+七猫免费小说
+
+    freereader://
 # pin排序
 自己用的pin排序列表
 
