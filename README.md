@@ -1,8 +1,10 @@
 # iOS URL Scheme收集整理
 
 ## 一些搜索URL
+1、AI搜索直达
 
-1、关于Google 翻译(替换=号后内容)
+    https://thinkany.ai/zh/search?q=
+2、关于Google 翻译(替换=号后内容)
 
 结果翻译至中文
     
@@ -16,7 +18,7 @@
     https://translate.google.com/#view=home&op=translate&sl=auto&tl=en&text=@@@    
 
 
-比较全的系统URL项目地址
+3、比较全的系统URL项目地址
 
     https://github.com/guodongxiaren/README
 
