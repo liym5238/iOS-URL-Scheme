@@ -259,7 +259,10 @@ QQ斗地主
     tel://10086
 
 ## 国外社交
-推特
+tikTok
+
+    snssdk1233://
+推特(X)
 
     Twitter://
 Telegram 
@@ -365,12 +368,8 @@ Line
 抖音
 
     snssdk1128://
-抖音极速版
 
-    snssdk1128://
-抖音国际版
 
-    snssdk1233://
 抖音首页
 
     snssdk1128://feed?refer=web&gd_label={{gd_label}} 
