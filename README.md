@@ -362,6 +362,18 @@ Line
 抖音 
 
     wb1462309810://
+抖音
+
+    snssdk1128://
+抖音极速版
+
+    snssdk1128://
+抖音国际版
+
+    snssdk1233://
+抖音首页
+
+    snssdk1128://feed?refer=web&gd_label={{gd_label}} 
 快手 
 
     gifshow://
