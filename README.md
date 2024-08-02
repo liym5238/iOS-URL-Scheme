@@ -4,6 +4,9 @@
 1、AI搜索直达
 
     https://thinkany.ai/zh/search?q=
+密塔AI
+
+    https://metaso.cn/?q=%@
 2、关于Google 翻译(替换=号后内容)
 
 结果翻译至中文
@@ -21,6 +24,9 @@
 3、比较全的系统URL项目地址
 
     https://github.com/guodongxiaren/README
+项目2
+
+    https://gist.github.com/zhuziyi1989/3f96a73c45a87778b560e44cb551ebd2
 
 ## 腾讯系列
 微信扫一扫
