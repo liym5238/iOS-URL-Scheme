@@ -23,7 +23,7 @@
 
 3、比较全的系统URL项目地址
 
-    https://github.com/guodongxiaren/README
+    https://github.com/FifiTheBulldog/ios-settings-urls/blob/master/settings-urls.md
 项目2
 
     https://gist.github.com/zhuziyi1989/3f96a73c45a87778b560e44cb551ebd2
