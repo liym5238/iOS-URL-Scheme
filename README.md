@@ -7,18 +7,6 @@
 密塔AI
 
     https://metaso.cn/?q=%@
-2、关于Google 翻译(替换=号后内容)
-
-结果翻译至中文
-    
-    https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-CN&text=@@@
-结果翻译至日文
-    
-    https://translate.google.com/?sl=auto&tl=ja&text=@@@&op=translate
-
-结果翻译至英文
-    
-    https://translate.google.com/#view=home&op=translate&sl=auto&tl=en&text=@@@    
 
 
 3、比较全的系统URL项目地址
@@ -27,6 +15,9 @@
 项目2
 
     https://gist.github.com/zhuziyi1989/3f96a73c45a87778b560e44cb551ebd2
+项目3    
+
+    https://gist.github.com/JamesHopbourn/046bc341e7debfd0c86e3b388d983c53?permalink_comment_id=4587311
 
 ## 腾讯系列
 微信扫一扫
