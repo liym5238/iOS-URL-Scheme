@@ -502,6 +502,17 @@ Piiic 2
 Alook浏览器 
 
     Alook://
+打开Alook并搜索
+
+    Alook://Search
+打开Alook书签
+
+    Alook://Bookmarks
+打开Alook下载界面
+
+    Alook://download/
+
+    
 115云盘 
 
     wb1307639798://
