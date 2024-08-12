@@ -26,9 +26,15 @@
 微信付款码
 
     weixin://widget/pay
+微信读书 
+
+    weread://
 QQ
 
     mqq://
+QQ扫一扫
+
+    mqqapi://qrcode/scan_qrcode?version=1&src_type=app
 QQ群组
     
     mqqapi://card/show_pslcard?src_type=internal&version=1&card_type=group&uin=QQ群号
@@ -54,6 +60,9 @@ QQ音乐本地播放
 QQ音乐听歌识曲 </span>
 
     qqmusic://http://qq.com/ui/recognize
+QQ音乐打开我喜欢列表
+
+    qqmusic://://qq.com/ui/myTab?p=%7B%22tab%22%3A%22fav%22%7D
 QQ邮箱 
 
     qqquicklogin://
@@ -70,27 +79,60 @@ QQ安全中心
 QQ斗地主
     
     tencent382://
+订阅号助手
+
+    wx50a3272e1669f0c0://
+心悦俱乐部
+
+    tgclub://
+DNF助手
+
+    dnfgamehelper://
+王者营地
+
+    kingscamp://
 腾讯视频 
 
     tenvideo://
+腾讯视频HD
+
+    tenvideo2://
 腾讯新闻 
 
     qqnews://
 腾讯微云 
 
     weiyun://
-微信读书 
-
-    weread://
 企业微信
     
     wxwork://
+政务微信
+
+    wxworklocal://
 企业邮箱 
 
     qqbizmailDistribute2://
 手机管家 
 
     mqqsecure://
+腾讯动漫
+
+    comicreader://
+腾讯会议
+
+    wemeet://
+腾讯文档
+
+    tencent101458937://
+腾讯翻译
+
+    wxa1f06899243f8b14://
+腾讯地图
+
+    sosomap://
+
+
+
 
 ## 网易系列
 
@@ -277,6 +319,25 @@ Instagram
 Line
 
     line://
+Stash
+
+    Stash://
+YouTube Music
+
+    youtubemusic://
+Shadowrocket
+
+    Shadowrocket://
+Quantumult X
+
+    quantumult-x://open
+Stream
+
+    wx6c96e0fd36d96dd3://
+Whatsapp
+
+    whatsapp://
+
 ## 社交平台
 微博
 
@@ -420,6 +481,12 @@ YY直播
 
     yymobile://
 ## 银行系列
+网商银行
+
+    alibank://
+微众银行
+
+    webank://
 招商银行 
 
     cmbmobilebank://
@@ -429,9 +496,27 @@ YY直播
 工商银行 
 
     com.icbc.iphoneclient://
+交通银行
+
+    bocom://
+光大银行
+
+    com.cebbank.ebank://
+兴业银行
+
+    cibmb://
+广发银行
+
+    wb1211548225://
+发现精彩(广发银行信用卡)
+
+    credit://
 中国银行 
 
     BOCMBCIZF://
+中信银行
+
+    citic://
 农业银行 
 
     bankabc://
@@ -441,6 +526,33 @@ YY直播
 浦发银行 
 
     wx1cb534bb13ba3dbd://
+浦大喜奔
+
+    spdbccc://
+汇丰银行中国
+
+    hsbcchina://
+平安口袋银行
+
+    wx580e8081459daa14://
+民生银行
+
+    com.cmbc.cn.iphone:/
+民生银行信用卡
+
+    wb3973160023://
+东莞银行
+
+    wx4db9c1c529c475e0://
+上海银行
+
+    BankOfShangHai://
+杭州银行
+
+    com.hzbank.hzbank.per://
+河北银行
+    
+    hebbank://
 云闪付扫一扫
 
     upwallet://native/scanCode
@@ -476,6 +588,27 @@ YY直播
 崩坏3
 
     bh3rd://
+原神启动
+
+    yuanshengame://
+金铲铲之战
+
+    tencent1109811436://
+掌上英雄联盟
+
+    wb691835642://
+部落冲突
+
+    clashofclans://
+穿越火线
+
+    cf://
+元梦之星
+
+    letsgo://
+
+
+
 ## 杂七杂八
 
 Cerulean工具箱 
