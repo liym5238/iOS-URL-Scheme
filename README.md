@@ -431,6 +431,9 @@ Whatsapp
 抖音首页
 
     snssdk1128://feed?refer=web&gd_label={{gd_label}} 
+抖音搜索
+
+    snssdk1128://search?keyword=@@@
 快手 
 
     gifshow://
