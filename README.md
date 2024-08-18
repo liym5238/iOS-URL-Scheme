@@ -701,3 +701,7 @@ keep
 七猫免费小说
 
     freereader://
+## 越狱相关
+filza跳转
+
+    filza://var/mobile/Documents
